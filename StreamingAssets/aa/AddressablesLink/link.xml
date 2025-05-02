@@ -172,14 +172,14 @@
     <type fullname="LevelDesignAreaMetadata" preserve="nothing" serialized="true" />
     <type fullname="LevelDesignInfo" preserve="nothing" serialized="true" />
     <type fullname="LevelDesignMetadata" preserve="nothing" serialized="true" />
+    <type fullname="BoosterProduct" preserve="nothing" serialized="true" />
     <type fullname="CollectEffectReference" preserve="nothing" serialized="true" />
     <type fullname="ScavengerHunt.Boosters.DefaultMagnifyingGlassBehavior" preserve="nothing" serialized="true" />
-    <type fullname="WrongTapViewReference" preserve="nothing" serialized="true" />
-    <type fullname="BoosterProduct" preserve="nothing" serialized="true" />
     <type fullname="TabsDataConfiguration" preserve="nothing" serialized="true" />
     <type fullname="UILayoutRebuildElement" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollPrefabSource" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.LoopScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="WrongTapViewReference" preserve="nothing" serialized="true" />
     <type fullname="UiBackgroundStyleContent" preserve="nothing" serialized="true" />
     <type fullname="UiBottomUiButtonStyleContent" preserve="nothing" serialized="true" />
     <type fullname="UiButtonStyleContent" preserve="nothing" serialized="true" />
