@@ -167,6 +167,7 @@
     <type fullname="UnlockedGameModeElement" preserve="all" />
     <type fullname="UnlockNextAreaPopupView" preserve="all" />
     <type fullname="WorldData" preserve="all" />
+    <type fullname="GameModeDataRef" preserve="nothing" serialized="true" />
     <type fullname="BuyCost" preserve="nothing" serialized="true" />
     <type fullname="ItemListDataRef" preserve="nothing" serialized="true" />
     <type fullname="LevelDesignAreaMetadata" preserve="nothing" serialized="true" />
@@ -194,7 +195,6 @@
     <type fullname="ProgressionGameMode" preserve="nothing" serialized="true" />
     <type fullname="TimerState" preserve="nothing" serialized="true" />
     <type fullname="Popcore.GameKit.PopupQueue.PopupQueueEntry" preserve="nothing" serialized="true" />
-    <type fullname="GameModeDataRef" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Coffee.SoftMaskForUGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UISoftMask.SoftMask" preserve="all" />
